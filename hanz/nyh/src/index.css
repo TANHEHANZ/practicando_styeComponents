@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.envelope.open {
+  opacity: 0;
+}
+.cartaStyle {
+  display: none;
+}
+.cartaStyle.ver {
+  display: flex;
+}
